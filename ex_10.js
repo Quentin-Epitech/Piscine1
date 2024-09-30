@@ -27,9 +27,9 @@ function calculSandwiches() {
     }
 
      
-    displayThisText(`Nombre de sandwichs au jambon : ${hamSandwichCount}`);
-    displayThisText(`Nombre de sandwichs au thon : ${tunaSandwichCount}`);
-    displayThisText(`Nombre de sandwichs végétariens :${vegetarianSandwichCount}`);
+    displayThisText(`number of ham sandwich (es) : ${hamSandwichCount}`);
+    displayThisText(`number of tuna sandwich (es) : ${tunaSandwichCount}`);
+    displayThisText(`number of vegetarian sandwich (es) :${vegetarianSandwichCount}`);
 
     
     displayIngredients();
