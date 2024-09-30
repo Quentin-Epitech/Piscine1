@@ -14,8 +14,8 @@ else if (typeof input_var === "number") {
   }
 }
 
-displayThisText(`The variable value is ${input_var}`);
-displayThisText(`Its type is ${type}`);
+displayThisText("The variable value is" +input_var);
+displayThisText("Its type is" + type);
 	if (input_var === 42) {
   displayThisText("It is the meaning of life.")
   }
