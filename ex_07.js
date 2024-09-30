@@ -1,6 +1,6 @@
 if (password == "forty-two") {
-    console.log("Success");
+    displayThisText("Success");
 } else {
-    console.log("Wrong password");
+    displayThisText("Wrong password");
 }
   
