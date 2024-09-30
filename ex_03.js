@@ -1,5 +1,5 @@
-let Number1="1"
-let Number2="2"
-let combi = Number1 + Number2 ;
+const Number1="1"
+const Number2="2"
+const combi = Number1 + Number2 ;
 
 displayThisText(combi);
